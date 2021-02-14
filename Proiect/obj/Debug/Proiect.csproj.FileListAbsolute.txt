@@ -1,0 +1,110 @@
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\bin\Debug\Proiect.exe.config
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\bin\Debug\Proiect.exe
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\bin\Debug\Proiect.pdb
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\obj\Debug\Proiect.exe
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\obj\Debug\Proiect.pdb
+c:\users\horia\documents\visual studio 2013\Projects\Proiect\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\Horia\Documents\Visual Studio 2013\Projects\Proiect\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\Users\Horia\Documents\Visual Studio 2013\Projects\Proiect\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Horia\Documents\Visual Studio 2013\Projects\Proiect\Proiect\obj\Debug\Interop.WMPLib.dll
+C:\Users\Horia\Documents\Visual Studio 2013\Projects\Proiect\Proiect\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Horia\Documents\Visual Studio 2013\Projects\Proiect\Proiect\obj\Debug\Proiect.csproj.ResolveComReference.cache
+G:\ \Proiect\Proiect\bin\Debug\Proiect.exe.config
+G:\ \Proiect\Proiect\obj\Debug\Interop.WMPLib.dll
+G:\ \Proiect\Proiect\obj\Debug\AxInterop.WMPLib.dll
+G:\ \Proiect\Proiect\obj\Debug\Proiect.csproj.ResolveComReference.cache
+G:\ \Proiect\Proiect\obj\Debug\Proiect.exe
+G:\ \Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Proiect\Proiect\obj\Debug\Interop.WMPLib.dll
+C:\Proiect\Proiect\obj\Debug\AxInterop.WMPLib.dll
+C:\Proiect\Proiect\obj\Debug\Proiect.csproj.ResolveComReference.cache
+C:\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Proiect\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\Proiect\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Proiect\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+C:\ProiectUPDATE\Proiect\bin\Debug\Proiect.exe.config
+C:\ProiectUPDATE\Proiect\obj\Debug\Interop.WMPLib.dll
+C:\ProiectUPDATE\Proiect\obj\Debug\AxInterop.WMPLib.dll
+C:\ProiectUPDATE\Proiect\obj\Debug\Proiect.csproj.ResolveComReference.cache
+C:\ProiectUPDATE\Proiect\obj\Debug\Proiect.exe
+C:\ProiectUPDATE\Proiect\obj\Debug\Proiect.pdb
+C:\ProiectUPDATE\Proiect\bin\Debug\Proiect.exe
+C:\ProiectUPDATE\Proiect\bin\Debug\Proiect.pdb
+C:\ProiectUPDATE\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\ProiectUPDATE\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\ProiectUPDATE\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\ProiectUPDATE\Proiect\obj\Debug\Proiect.Form1.resources
+C:\ProiectUPDATE\Proiect\obj\Debug\Proiect.Form2.resources
+C:\ProiectUPDATE\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\ProiectUPDATE\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+D:\ProiectMODIFICAT\Proiect\bin\Debug\Proiect.exe.config
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Interop.WMPLib.dll
+D:\ProiectMODIFICAT\Proiect\obj\Debug\AxInterop.WMPLib.dll
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.csproj.ResolveComReference.cache
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.exe
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.pdb
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form1.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form2.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form7.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+D:\ProiectMODIFICAT\Proiect\bin\Debug\Proiect.exe
+D:\ProiectMODIFICAT\Proiect\bin\Debug\Proiect.pdb
+D:\ProiectMODIFICAT\Proiect\bin\Debug\Interop.WMPLib.dll
+D:\ProiectMODIFICAT\Proiect\bin\Debug\AxInterop.WMPLib.dll
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form3.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form4.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form5.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form6.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form8.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form9.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form10.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form11.resources
+D:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form12.resources
+C:\ProiectMODIFICAT\Proiect\bin\Debug\Proiect.exe.config
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Interop.WMPLib.dll
+C:\ProiectMODIFICAT\Proiect\obj\Debug\AxInterop.WMPLib.dll
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.csproj.ResolveComReference.cache
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.exe
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.pdb
+C:\ProiectMODIFICAT\Proiect\bin\Debug\Proiect.exe
+C:\ProiectMODIFICAT\Proiect\bin\Debug\Proiect.pdb
+C:\ProiectMODIFICAT\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\ProiectMODIFICAT\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form1.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form10.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form11.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form12.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form2.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form3.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form4.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form5.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form6.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form7.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form8.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form9.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form13.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form14.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form15.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form16.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form17.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form18.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form19.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form20.resources
+C:\ProiectMODIFICAT\Proiect\obj\Debug\Proiect.Form21.resources
